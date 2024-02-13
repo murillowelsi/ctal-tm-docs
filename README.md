@@ -28,18 +28,18 @@ I've created this material to assist me in preparing for the Certified Tester Ad
 
 ## Table of Contents
 
-**[Chapter 1: Testing Process](pages)**
+**[Chapter 1: Testing Process](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.1-introduction.md)**
 
-- [1.1 Introduction](pages)
-- [1.2 Test Planning, Monitoring and Control](pages)
-  - [1.2.1 Test Planning](pages)
-  - [1.2.2 Test Monitoring and Control](pages)
-- [1.3 Test Analysis](pages)
-- [1.4 Test Design](pages)
-- [1.5 Test Implementation](pages)
-- [1.6 Test Execution](pages)
-- [1.7 Evaluating Exit Criteria and Reporting](pages)
-- [1.8 Test Closure Activities](pages)
+- [1.1 Introduction](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.1-introduction.md)
+- [1.2 Test Planning, Monitoring and Control](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.2-test-planning-monitoring-and-control.md)
+  - [1.2.1 Test Planning](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.2-test-planning-monitoring-and-control.md#121-test-planning-summary)
+  - [1.2.2 Test Monitoring and Control](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.2-test-planning-monitoring-and-control.md#122-test-monitoring-and-control-summary)
+- [1.3 Test Analysis](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.3-test-analysis.md)
+- [1.4 Test Design](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.4-test-design.md)
+- [1.5 Test Implementation](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.5-test-implementation.md)
+- [1.6 Test Execution](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.6-test-execution.md)
+- [1.7 Evaluating Exit Criteria and Reporting](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.7-evaluating-exit-criteria-and-reporting.md)
+- [1.8 Test Closure Activities](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.8-test-closure-activities.md)
 
 ---
 
